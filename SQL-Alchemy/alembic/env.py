@@ -27,6 +27,7 @@ url = URL.create(
     port=5432,
     database=env.str("POSGREST_DB"),
 ).render_as_string(hide_password=False)
+
 config.set_main_option(
     "sqlalchemy.url",
     url
