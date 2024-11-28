@@ -19,6 +19,12 @@ poetry install --no-root
 poetry shell # Activate env
 ```
 
+# Run test locust
+```
+locust
+```
+Host: 0.0.0.0:9200
+
 # Notes
 File [docker-compose.yml](/elastic-stack/docker-compose.yml)
 ```console
