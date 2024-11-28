@@ -12,8 +12,6 @@ This will run a Elasticsearch cluster, together with Kibana to use the Dev Tools
 ![Description of the image](imgs/Screenshot%20from%202024-11-28%2010-25-14.png)
 
 
-
-
 # Installation
 
 ```console
