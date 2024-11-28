@@ -20,7 +20,7 @@ poetry shell # Activate env
 ```
 
 # Run test locust
-```
+```console
 locust
 ```
 Host: 0.0.0.0:9200
